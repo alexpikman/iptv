@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://tv.pqnet.ru/logo/cinema.png" group-title="Russia",Cinema (Russia)
+#EXTINF:-1 tvg-logo="https://tv.pqnet.ru/logo/cinema.png" group-title="Russia",Cinema (Russia)
 http://flussonic.linkintel.ru/cinema/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EGIpLPu.png" group-title="Russia",viju Explore
 http://stream.mcquack.net/239/index.m3u8
